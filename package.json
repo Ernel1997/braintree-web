@@ -31,7 +31,7 @@
     "framebus": "5.1.2",
     "inject-stylesheet": "4.0.0",
     "promise-polyfill": "8.2.0",
-    "restricted-input": "3.0.4"
+    "restricted-input": "3.0.5"
   },
   "devDependencies": {
     "browserify": "^17.0.0",
